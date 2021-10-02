@@ -1,4 +1,4 @@
-# bot-telegram-clima
+# bot-telegram-para-verificar-clima-atual
 
 Bot for telegram to check the weather at current or customer-defined location
 
